@@ -1,2 +1,1 @@
-# marcosdetrano
-meu primeiro site 
+Projetos das aulas de Python.
